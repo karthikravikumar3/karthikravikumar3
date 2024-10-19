@@ -1,7 +1,6 @@
 ##  Introduction
 - Hi, I’m Karthik Ravi Kumar, A Computer Science Graduate Student at Arizona State University. I am an experienced R&D Software developer worked with 5G NR, LTE Technologies
-- I’m currently learning about srsRan software radio suite, Powder(A 5G Networking infrastucture platform), Kernel Address Space Layout Randomization,
-     and AWS Services.
+- I’m currently working at a Startup as a Full Stack Developer in the MERN Stack
 
 
 
@@ -9,7 +8,7 @@
 
 ##  Get in Touch 
 
-- Email - karthik.r.1699@gmail.com
+- Email - karthikravikumar3@outlook.com
 - Phone - (602)-919-5667
 - LinkedIn - https://www.linkedin.com/in/karthik-ravi-kumar
 
